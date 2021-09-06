@@ -5,7 +5,8 @@
 }
 
 #root, html {
-  background-color: #2A6BAC;
+  background: linear-gradient(239deg, #43728a, #2daa94);
+  height: 100vh;
 }
 
 .wrapper {
